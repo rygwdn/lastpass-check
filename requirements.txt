@@ -1,3 +1,6 @@
-requests==1.1.0
+distribute==0.7.3
+pycparser==2.10
+pycrypto==2.6.1
+python-bcrypt==0.3.2
+requests==2.1.0
 simple-pbkdf2==1.0
-pycrypto==2.6
