@@ -1,4 +1,4 @@
-check-pw
+lastpass-check
 ============
 
 This is a simple script for checking if a given string is contained in a

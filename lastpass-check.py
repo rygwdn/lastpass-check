@@ -5,7 +5,7 @@
 This is a script for checking if a given input is a password in a LastPass database.
 
 You can easily package it as a single file (e.g. for use in a script) by doing:
-    pyinstaller --onefile --console check-pw.py
+    pyinstaller --onefile --console lastpass-check.py
 """
 
 from lastpass import Fetcher, Parser
